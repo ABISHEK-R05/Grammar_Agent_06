@@ -3,7 +3,7 @@ llm:
   temperature: 0.1
 
 agent:
-  max_iterations: 2
+  max_iterations: 5
   token_budget: 100000
 
 memory:
