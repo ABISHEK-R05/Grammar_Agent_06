@@ -1,0 +1,25 @@
+# Environments
+.env
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# ChromaDB
+.chroma_db/
+chroma_data/
+
+# Logs
+logs.jsonl
+*.log
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo

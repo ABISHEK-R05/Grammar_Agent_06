@@ -1,0 +1,10 @@
+llm:
+  model_name: "gemini-3.1-flash-lite"
+  temperature: 0.1
+
+agent:
+  max_iterations: 2
+  token_budget: 100000
+
+memory:
+  collection_name: "grammar_agent_memory"
